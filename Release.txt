@@ -1,2 +1,2 @@
 1.0.0.0
-https://github.com/Zeliper/POE_Trader/raw/main/POETrader.zip
+https://github.com/Zeliper/POE_Trader/raw/main/Release/POETrader.zip
